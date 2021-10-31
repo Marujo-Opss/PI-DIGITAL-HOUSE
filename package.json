@@ -1,0 +1,24 @@
+{
+  "name": "pi-digital-house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bicosito/PI-DIGITAL-HOUSE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bicosito/PI-DIGITAL-HOUSE/issues"
+  },
+  "homepage": "https://github.com/Bicosito/PI-DIGITAL-HOUSE#readme",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "next": "^12.0.1"
+  }
+}
